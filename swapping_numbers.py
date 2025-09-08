@@ -8,7 +8,7 @@ a, b = b, a
 print("After swapping: a =", a, "b =", b)
 
 
-# or by sing bitwise operator 
+# or by using bitwise operator 
 
 
 a = int(input("Enter first number (a): "))
