@@ -3,4 +3,4 @@ width=float(input("enter the width of the rectangle: "))
 
 area = length * width
 
-print("the are of the rectangle is :",area)
+print("the area of the rectangle is :",area)
